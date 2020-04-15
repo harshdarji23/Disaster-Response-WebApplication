@@ -28,3 +28,9 @@ In this project I have built up a Web application which takes input messages dur
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/ or localhost:3001
+
+## Web Application Demo:
+This image shows how the message "Due to heavy rains, there's flood in Mumbai. Help neeeded" is classified into different categories like Related, aid related, search and rescue..
+<br>
+<br>
+<img src='Img/app1.PNG' width='800'>
