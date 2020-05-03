@@ -2,7 +2,7 @@
 
 ## Project Overview
 In this project I have built up a Web application which takes input messages during calamity and direct to a particular alleviation organization that can give speedy help
-<br> The application utilizes a ML model to sort any new messages got, and the store additionally contains the code used to train the model and to set up any new datasets for model training purposes
+<br> The application utilizes a ML model to sort any new messages got, and the store additionally contains the code used to train the model and to set up any new datasets for model training purposes. Read the entire blog at: https://towardsdatascience.com/building-a-disaster-response-web-application-4066e6f90072
 <br>Data Source: [Figure Eight](https://www.figure-eight.com/data-for-everyone/)
 <br>
 ## File Description
